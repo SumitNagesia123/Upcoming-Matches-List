@@ -11,7 +11,8 @@ A simple web app that shows upcoming soccer matches using a public API.
 Just open `index.html` in your browser.
 
 ## Preview
-![screenshot](screenshot.png)  <!-- optional image -->
+![screenshot](![image](https://github.com/user-attachments/assets/554f0609-1ebf-4a4d-ba40-186982ef454c)
+.png)  <!-- optional image -->
 
 ## Author
 [Sumit Nagesia](https://github.com/SumitNagesia123)
